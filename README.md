@@ -1,6 +1,4 @@
-# House-price-prediction
-
-### House price prediction and comparison of machine learning models
+# House price prediction and comparison of machine learning models
 
 *  Perform EDA
 *  Remove discrete data
